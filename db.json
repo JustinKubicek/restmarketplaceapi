@@ -1,0 +1,25 @@
+{
+   "tiles":[
+      {
+         "id":74301,
+         "name":"Amazon",
+         "click_url":"http://demofeed.ampxdirect.com/?partner=demofeed&sub1=123456789&sub2=placement1&sub3=74301&source=als_tiles",
+         "image_url":"https://cdn.45tu1c0.com/account/74042/200/1521228087176.jpg",
+         "impression_url":"https://imp.mt48.net/static?v=2&partner=demofeed&adv-id=74301&sub1=123456789&sub2=placement1&sub3=74301"
+      },
+      {
+         "id":8654,
+         "name":"Macys",
+         "click_url":"http://demofeed.ampxdirect.com/?partner=demofeed&sub1=123456789&sub2=placement1&sub3=8654&source=als_tiles",
+         "image_url":"https://cdn.45tu1c0.com/account/8654/200/1521228087121.jpg",
+         "impression_url":"https://imp.mt48.net/static?v=2&partner=demofeed&adv-id=8654&sub1=123456789&sub2=placement1&sub3=8654"
+      },
+      {
+         "id":73634,
+         "name":"Ancestry",
+         "click_url":"http://demofeed.ampxdirect.com/?partner=demofeed&sub1=123456789&sub2=placement1&sub3=73634&source=als_tiles",
+         "image_url":"https://cdn.45tu1c0.com/account/73634/200/1521228087108.jpg",
+         "impression_url":"https://imp.mt48.net/static?v=2&partner=demofeed&adv-id=73634&sub1=123456789&sub2=placement1&sub3=73634"
+      }
+   ]
+}
